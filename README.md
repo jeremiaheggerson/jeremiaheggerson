@@ -4,9 +4,9 @@
 
 An AI Evaluation and Software Engineer with 4+ years of experience designing empirical evaluation frameworks for frontier multimodal generative systems. I operate at the intersection of software engineering and applied AI research—leveraging production-grade tooling to solve complex measurement problems across speech, vision, reasoning, and agentic workflow domains.
 
-* ✉️ You can contact me via [jeremiaheggerson14@gmail.com](mailto:jeremiaheggerson14@gmail.com)[cite: 4]
-* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/rashaad-eggerson-77a457416)[cite: 4]
-* 🧠 **Research Interests:** Evaluation reproducibility, multimodal artifact taxonomy, agentic workflow benchmarking, and conversational repair dynamics[cite: 4].
+* ✉️ You can contact me via [jeremiaheggerson14@gmail.com](mailto:jeremiaheggerson14@gmail.com)
+* 💼 Connect with me on [LinkedIn](https://linkedin.com/in/rashaad-eggerson-77a457416)
+* 🧠 **Research Interests:** Evaluation reproducibility, multimodal artifact taxonomy, agentic workflow benchmarking, and conversational repair dynamics
 
 ---
 
